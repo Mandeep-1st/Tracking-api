@@ -1,0 +1,13 @@
+{"level": "INFO", "time": "2025-06-30 14:48:59,843", "module": "autoreload", "message": "Watching for file changes with StatReloader"}
+{"level": "INFO", "time": "2025-06-30 14:49:09,134", "module": "middleware", "message": "Incoming request: GET /"}
+{"level": "INFO", "time": "2025-06-30 14:49:09,266", "module": "middleware", "message": "Response: 404 in 131ms"}
+{"level": "WARNING", "time": "2025-06-30 14:49:09,274", "module": "log", "message": "Not Found: /"}
+{"level": "INFO", "time": "2025-06-30 14:49:09,370", "module": "middleware", "message": "Incoming request: GET /favicon.ico"}
+{"level": "INFO", "time": "2025-06-30 14:49:09,379", "module": "middleware", "message": "Response: 404 in 9ms"}
+{"level": "WARNING", "time": "2025-06-30 14:49:09,389", "module": "log", "message": "Not Found: /favicon.ico"}
+{"level": "INFO", "time": "2025-06-30 14:52:46,498", "module": "middleware", "message": "Incoming request: GET /next-tracking-number"}
+{"level": "INFO", "time": "2025-06-30 14:52:46,500", "module": "views", "message": "Received tracking number generation request"}
+{"level": "INFO", "time": "2025-06-30 14:52:46,502", "module": "services", "message": "Generated tracking number: MYID1KAMGRYANO"}
+{"level": "INFO", "time": "2025-06-30 14:52:46,511", "module": "services", "message": "Successfully created tracking number: MYID1KAMGRYANO"}
+{"level": "INFO", "time": "2025-06-30 14:52:46,511", "module": "views", "message": "Successfully generated tracking number in 11ms"}
+{"level": "INFO", "time": "2025-06-30 14:52:46,542", "module": "middleware", "message": "Response: 200 in 43ms"}
